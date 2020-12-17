@@ -3,6 +3,7 @@ Our new information service would help students and academic advisors design edu
 Our system will bring these two information domains onto one canvas, where students will be able to choose courses based on jobs that are trending or in which they are interested. Our Information service is supported by two streams of data:
 
 Employment and Job projections: https://data.bls.gov/projections/occupationProj
+
 Courses offered by iSchool at UMD: https://app.testudo.umd.edu/soc/202101/INST
 
 This service would be provided in the form of easy-to-understand Tableau reports, designed for easy use by academic advisors and students in planning courses. A user could examine the data from both sides to answer the questions, “How does this course relate to the trending job market?” and “How could I prepare for this trending job with the courses being offered?” Online accessibility would be the best way to put this service into use because it would be accessible to a majority of students on campus. If they have internet access, they have access to this tool. 
